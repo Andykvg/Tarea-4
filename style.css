@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(15, 29, 48);
+}
+#titulo{
+margin: 1%;
+padding: 0.1%;
+height: 350px;
+width:400px;
+float: inline-start;
+font-size: 40px;
+font-family:'Gill Sans';
+text-align: center;
+color:rgb(211, 206, 199);
+}
+#imagen{
+    float:unset;
+    margin: 0.5%;
+    margin-left: 2%;
+}
+#mochila{
+    float:inline-end;
+}
+#texto{
+    background-color: rgb(86, 118, 167);
+    margin: 23px;;
+    padding:3%;
+    height: 2%;
+    width: 32%;
+    float: left;
+    text-align: center;
+}
+#video{
+    background-color: rgb(56, 78, 114);;
+    margin-top: 2px;
+    margin-right: 2%;
+    padding: 3%;
+    float:right;
+}
